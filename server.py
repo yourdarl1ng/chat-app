@@ -3,6 +3,7 @@ from _thread import *
 import threading
 global clients
 import random
+
 clients = {}
 
 class client_handle:
