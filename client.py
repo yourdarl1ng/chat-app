@@ -1,6 +1,8 @@
 import socket
 import threading
 import customtkinter as ct
+
+# Main class, stuff happens here
 class client:
     
     def start(self):
